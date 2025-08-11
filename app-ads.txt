@@ -1,1 +1,10 @@
 google.com, pub-1449407930886577, DIRECT, f08c47fec0942fa0
+
+#Updated 21st NOVEMBER
+
+#Appodeal
+appodeal.com, 256647, DIRECT
+
+#BidMachine
+bidmachine.io, 256647, DIRECT
+
